@@ -1,4 +1,2 @@
-# BackendLearningPath
-Collection of code I made in my backend learning path
-
-Starting with the first Freecodecamp challenge that needs to validate a JSON code. 06/25/2023
+# Backend Challenges boilerplate - package.json
+[![Run on Repl.it](https://repl.it/badge/github/freeCodeCamp/boilerplate-npm)](https://repl.it/github/freeCodeCamp/boilerplate-npm)
